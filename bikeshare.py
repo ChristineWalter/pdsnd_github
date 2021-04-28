@@ -108,7 +108,7 @@ def time_stats(df, month, day):
         common_day=df['Day of Week'].mode()[0]
         print('The most common day is: {}.'.format(common_day))
     else:
-        print('There is no common day because you selected {} as your day filter'.format(day))
+        print('No common day because you selected {} as your day filter'.format(day))
         
     # display the most common start hour
     common_hour=df['Hour'].mode()[0]
