@@ -7,11 +7,13 @@ April 28, 2021
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project let's you create statistics for bikeshare data in the cities New York City, Washington and Chicago. By entering certain parameters, the programm will provide you with statistics and information around the bikeshare data.
 
 ### Files used
-Include the files used
+bikeshare.py 
+washington.csv 
+new_york_city.csv 
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The bikeshare project was created for the Udacity Nanodegree "Programming for Data Science" with the help of Udacity mentors.
