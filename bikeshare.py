@@ -22,7 +22,7 @@ def get_filters():
     city = ""
 
     
-    city = input("Please enter the name of the City. Valid cities are Chicago, New York City or Washington: ").lower()
+    city = input("Please enter the name of the City: Chicago, New York City or Washington: ").lower()
     
     while True:
         try: 
